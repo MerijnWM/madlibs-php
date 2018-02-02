@@ -1,0 +1,88 @@
+body {
+	margin: 0px;
+	background-color: black;
+}
+
+header{
+	color: white;
+	font-family: 'Ravie';
+	font-size: 60px;
+	margin: auto;
+	margin-top:20px;
+	width: 800px
+}
+
+nav{
+	background-color: firebrick;
+	width: 800px;
+	height: 40px;
+	margin: auto;	
+}
+
+ul{
+	padding-left: 20px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	list-style-type: none;
+}
+
+li{		
+	display: inline;		
+	padding-right: 20px;
+	position: relative;
+	top: 10px;		
+}
+
+main{
+	background-color: white;
+	width: 800px;
+	margin: auto;
+	padding-bottom: 10px;	
+}
+
+h2{
+	margin: 0px;
+	padding: 30px 0px 20px 20px;
+}
+
+form{
+	padding-left: 20px;	
+}
+
+p{
+	margin-top: 0px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+input{		
+	width: 250px;
+	position: relative;
+ 	display: block;
+ 	left: 400px; 	
+ 	bottom: 20px;
+}
+
+.input-up{
+	position: relative;
+	bottom: 40px;
+}
+
+#send-button{
+	width: 100px;
+	margin-top: 30px;
+}
+
+footer{
+	background-color: grey;
+	height: 30px;
+	width: 800px;
+	margin: auto;
+	text-align: center;
+	padding-top: 10px;
+}
+
+
